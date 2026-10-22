@@ -44,3 +44,7 @@ The data preparation was executed using Python (`pandas` and `openpyxl`) to ensu
 * **Excel engine**: Openpyxl (Python library for writing Excel files without corruption)
 * **Data manipulation**: Pandas
 * **Format standard**: standard Microsoft Excel XML (OpenXML)
+
+## On my portfolio
+
+- Case study: [ghostiemoh.com/#work](https://ghostiemoh.com/#work)
